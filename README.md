@@ -1,2 +1,2 @@
 # cybuf-formatter
-a formatter for cybuf
+a formatter server for cybuf
